@@ -1,5 +1,11 @@
+/*  cursor/create-a-portfolio-landing-page-f6ea */
 /* Reset and Base Styles */
 * {
+/* ======= */
+body{
+    background-color:pink;
+    font-family: Arial, sans-serif;
+/*  main */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
